@@ -10,6 +10,21 @@
     "clear F8",
     "clear G8",
     "clear B3",
-    "flag A3"
+    "flag A3",
+
+    // more moves:
+    "clear A2",
+    "clear B2",
+    "clear C2",
+    "flag H1",
+    "flag G1",
+    "flag F1",
+    "clear E1",
+    "clear D1",
+    "clear F7",
+    "clear G7",
+    "clear E8",
+    "flag H7",
+    "clear H8"
   ]
 }
